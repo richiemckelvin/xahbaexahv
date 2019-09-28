@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aedeevahli.bitoslabs.com/sitemap.xml
